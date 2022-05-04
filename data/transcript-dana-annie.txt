@@ -1,0 +1,156 @@
+Dana: Uhm:: (3.0) should we start with a sentence or with a few random words ↑
+Annie: Maybe a few random words ↑
+Annie: So [like
+Dana: [<Maybe sea>, beach ((laughing))
+Annie: [Yea] Beach. Yea.
+Dana: Waves ((Annie is typing in words))
+Annie: Yea. Sand? ↑
+Dana: Yes ((Annie is typing in the words))
+Annie/Dana: ((Mumbling  what the AI generated))
+Annie: What ↓  ((laughing))
+Dana: It's just making a words ((laughing))
+Annie: Sandwiches, sea, salmon on the beach, sandwiches, seaside, sunscreen ((reading from the screen))
+Dana: We can try it again and with different settings
+Annie: Yea ↓
+Dana: And this is the sampling temperature, this is the creativity (.) So if you have it high (.) then [I think it’s 
+Annie: [I think it is good
+Dana: I don’t know what this one is
+Annie: I think it is okay because then there is more variety
+Dana: Yea (.) Should we run it one more time
+Annie: Yea. Should we change something maybe, let's see what happens 
+Dana: Yea yea.
+Dana: Crashing in the distance ((laughing)) Oh, that's nice ↑ Yeah ((reading the text)) especially compared to this <the temperature is ba()lmy 100 degrees unity (.) with (.) 93 humidity> (0.2) we are tired of the heat. 
+Annie: This makes sense ↑
+Dana: This makes more sense here. It is fun that here ((pointing to the humidity part in the text)) (.) are [talking about humidity (h)
+Annie: [the temperature too, but then this is, but it relates to this ((pointing to text on screen))(.) right (.) It's talking about how hot it is 
+Dana: Yea.
+Annie: and then that they're tired of the heat but then it's nice to hear it
+Dana: It's funny I thought as waves a a (2.0) just a normal word. I mean not as (.) uh (.) verb ((laughing))
+Annie: Ahh
+Dana: >So it's nice that it made a sentence out of it<
+Annie: Yea
+Dana: Should we maybe think of the first sentence (.) and then (.) five of the
+Annie: Like this one ((highlighting text on screen)) 
+Dana:  Yeah, yeah
+Annie: So remove the same and generate more text (2.0) i looked at the salt spray ((reading from screen))(.) from the (.) I just said that a few are born great and many achieve greatness (.) but it takes an awful lot of effort to [become (h) a whole lot greater ((reading from screen))
+Dana: [He is quoting some(.)someone 
+Annie: Yea. Garry Young ↑ (.) So (.) this is strange::
+Dana: Yeah, it doesn’t make sense (4.0) yeah the(.)the sentence stopped here in the middle 
+Annie:  Yeah (.)nd then stop connecting it completely
+Dana: Yea. Here he is ending with that (2.0) and >maybe something completely different< leafs (.) <falling off> a tree
+Annie: Yea 
+Dana: That is <five syllabus> ((Annie is typing))
+Annie: Leafs <falling of a> tree ((typing and mumbling the words))
+Annie/Dana: ((Laughing))
+Dana: Oh (2.0) but now he's making up words again. 
+Annie: Yea
+Dana: In the <previous one> he was >just making normal sentences<
+Annie: Sentences. Yeah. So when we gave it words, it made (.) sentences (.) but when we gave it a sentence, 
+Dana: yeah. Then he is (.) But if (.) Like when the (.)  I remember when then he's gonna complete that
+Annie: Yea
+Dana: But if you giving him the sentence (2.0) then he's just making up
+Annie: Words (.) yeah
+Dana: Maybe leaves falling
+Annie: But maybe let's continue with this <typical celebration of the>
+Dana: Yea (.) Oh(h)h
+Annie: What::↓
+Dana: I think you should start the last sentence (.) I thought ↑ that he was going to do that
+Annie: Yeah. That's that’s↑how it worked last time
+Dana: Oh (3.0)  I can just tell it's time to break out <those hose or water cannons again> ↓, this was just too much to take (.) I don't know if you ever used one of these in your garden (.) but when you never used one typical celebration of the (.) it's weird
+Annie: Yeah, I think it's just generating text ↓
+Annie: I think I will know. See if you pick words from. Yeah, 
+Dana: Yeah. but now, he's really making (some) text we should maybe change the settings↑ for the next one that we are going to do. 
+Annie: Yeah.
+Dana: Typical celebration of the film’s release is included a wall of fame for the band’s names that ran down the side of a club? ((reading from the screen)) Unlike many of the cold war movies and perhaps because it's black and white appearance ↓ Makes a little bit sense 
+Annie: ((Laughing))
+Annie: You know. What did you suggest we should do uhh change the some settings, right↑?
+Dana: Yeah. start doing 
+Annie: ↓Starting at the beginning of the document? Oh yeah. This is interesting ((refering to change in settings)) 
+Dana: Ah We should have a final ((referring to the Haiku))
+Annie: Ah, okay. Let’s see(.) one was interesting. 
+Dana: Ah Yes. Sea waves 
+Annie: We’ll have it in the recording its fine ↓ (.) should we umm reduce the number?((length to generate option))
+Dana: Yeah. And maybe we can just start with the sea waves and then make a [thing out of it.
+Annie: [coherent (2.0) Pushed against their ca(h)r and the ↓wind roared against their ears ↑(.) they were driving down the road that I 95 used↑? 
+Dana: No↓.
+Annie: I'm so curious what (.) like what↑ (.) ↓data does it access 
+Dana: Ah. We had a nice one
+Annie/Dana: ((Laughing))
+Annie: parallel in the summer months heading out((reading from the screen))
+Dana:  <Should we maybe just delete it> and try it again? 
+Annie: Yeah (3.0) umm sea:: ((typing on the screen))
+Dana:  Umm ↓maybe another word.
+Annie: Plants (↓a bit random)
+Dana: Um, So, if you [if you say one word then its just summing up everything, he knows about it
+Annie: [(h)] Not even↑ [like is the bean ?
+Dana: [No
+Annie: Sea bean plant
+Dana: Yeah, but if you start with a word and then a verb, then he's making a sentence out of it 
+Annie: Hmm (.) Sea::
+ Dana: Is it breaking↓ the waves are breaking or not?
+Annie: Yeah.
+Dana: Maybe some other thing (h)
+Annie: Yeah. Forest↑?
+((inaudible whispering))
+Dana: Yeah. 
+Dana: Where is that name coming from?
+Annie: (h) I have no idea (.) ((typing words and repeating)) wild trees ↓
+Dana: So now it's just giving information again. What 
+Annie: Yeah. What did we change? maybe(.) Yeah, maybe 200.
+Dana: [Yeah. Maybe we should
+Annie: [Yeah, maybe we should] change the [creativity Increased creativity↓((while changing settings))
+Dana: [Yeah] Birds flying
+Annie: ((laughing)) What the hell?
+Dana: but maybe we can change this one a little bit ((pointing to screen)) 
+Annie: hmm now it's just quoting ↑
+Dana: Yeah (.) Birds flying (.) okay (0.2) Birds flying time changes ((reading from the screen)) (.) It's uh
+Annie: It’s poetic↑
+Dana: Yeah…But it's not the, [not 5 syllables] Oh (.) oh we are really behind↑
+Annie: [oh
+((reading inaudibly and changing text on screen))
+Dana: Yeah. [Oh↑] where you have your (.) mouse, there he is gonna write (.) Okay.
+Annie: [Ah↑] I don’t like this at all. I'm listening to my iPod. So I spent (h) half an hour tossing and turning ((reading text on screen inaudibly)) 
+Annie: But maybe this itself is the↓ haiku (.) listening
+Dana: Yeah (.) Can we just try birds crimping uh (.) again (3.0) I think we have to to do the settings differently because it doesn't make any sense(.) I don't know how they get the ((distracted because other people are talking))
+Annie/Dana: ((Laughing, reading the text on screen))
+Annie: have you gone through the burning truth already swift swifty sounds a bit dodgy, doesn't it↑
+Dana: Ugh
+Annie: chit chit chit was not creepy (.)not singing ((reading the text on screen))(h) This↑ kind of makes sense
+Dana: Yeah (h) What↓ do we want to do? 
+Peter: You guys are
+Dana: Uh, not going that well↑ (h)
+Annie: it started well and then it just started giving us really random [choices
+Peter: [Okay.
+Dana: But the first sentence is okay But it is too long but Maybe we can just delete it and then
+Annie: ((Laughing))
+Dana: Not only the the syllables are not right (1.0) Oh but (.) this is five (.) so that is the first maybe ((Annie changing order of words on screen)) 
+Annie: Yeah
+Dana: Well that's yeah, that's the first one maybe (.) singing songs I guess. Yeah. Birds chirping (coyotes howling) 
+Annie: ((counting the syllables in the sentence))
+Dana: (h) ↑That's too much.
+Annie: Chir(.)ping (.) There's three right? Chirping is three Um, 
+Dana: How do you say it?
+Annie: Chirping? 
+Dana: There are two right↓?
+Annie: Yeah. Two. 
+Dana: But coyotes is too much.  
+Annie: It’s three already 
+Dana: Yeah.
+Annie: Maybe it's coyotes (howling) ((shifting text around on screen)) And then↑re generate.
+Annie: Rain lashing 
+Dana: rain lashing (at windows)((reading while counting syllables)) No, no rain lashing ((reading from screen))
+Annie: Or icicles on fence
+Dana: ((inaudible reading and counting)) Icicles on fence (.) That's five↑ 
+Annie: ((inaudible)) (h) 
+Dana:Maybe we can just (.) um (1.0) Um (.) delete this one  ((pointing on screen))and then set that (.) Delete howling or coyotes and see what hes going to type there
+Annie: Oh yes↑ no ↓
+Dana: No n  actually coyote should be gone I think because that's too much
+Annie: Okay. Stop (h) ((to screen generating text continuously)) jelly (h) fish starting their cold
+Dana: Yeah (.) So maybe just delete also ↓growling
+Annie: Ah::
+((retyping and rearranging text on screen)) 
+Annie: parrots↑ swinging (2.0) that’s↑ three right↑yeah 
+Dana: Yeah no but thats (.) Birds chirping parrots singing ((reading while counting syllables)) seven ↑ that is seven!
+Annie: [Done (.) ]this was a truly collaborative effort 
+Dana: [Ok(h)ay:: 
+Annie/ Dana: ((Laughing))
